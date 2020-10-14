@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\ASUS\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\ASUS\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\ASUS\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\ASUS\source\repos\Game\Game\obj\Debug\Game.pdb
